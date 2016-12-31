@@ -1,0 +1,6 @@
+[package]
+name = "world-war"
+version = "0.1.0"
+authors = ["Gabriel_Dav <gabriel@rotageek.com>"]
+
+[dependencies]
